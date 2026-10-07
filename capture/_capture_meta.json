@@ -1,0 +1,82 @@
+{
+  "C1_anthropic_headline": {
+    "url": "https://www.anthropic.com/news/disrupting-AI-espionage",
+    "key": "Disrupting the first reported AI-orchestrated",
+    "key_bbox_in_view": {
+      "x": 324,
+      "y": 217,
+      "width": 1272,
+      "height": 114.40625
+    },
+    "block_bbox_in_view": {
+      "x": 324,
+      "y": 217,
+      "width": 1272,
+      "height": 114.40625
+    }
+  },
+  "C3_lateral_movement": {
+    "url": "https://www.lowenstein.com/news-insights/publications/client-alerts/anthropic-reports-first-known-ai-orchestrated-cyber-espionage-campaign-raising-stakes-for-data-security-data-privacy",
+    "key": "lateral movement",
+    "key_bbox_in_view": {
+      "x": 799,
+      "y": 560.96875,
+      "width": 728.546875,
+      "height": 216
+    },
+    "block_bbox_in_view": {
+      "x": 799,
+      "y": 560.96875,
+      "width": 728.546875,
+      "height": 216
+    }
+  },
+  "C4_glasswing_10000": {
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "key": "After one month",
+    "key_bbox_in_view": {
+      "x": 640,
+      "y": 495.140625,
+      "width": 640,
+      "height": 158.0625
+    },
+    "block_bbox_in_view": {
+      "x": 640,
+      "y": 495.140625,
+      "width": 640,
+      "height": 158.0625
+    }
+  },
+  "C2_anthropic_8090": {
+    "url": "https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf",
+    "pdf_page_index": 2,
+    "print_page": 3,
+    "key": "80.{0,3}90",
+    "key_bbox_px_scale3": [
+      217.94700622558594,
+      1588.9823913574219,
+      308.8755340576172,
+      1613.4683990478516
+    ],
+    "page_px": [
+      1836,
+      2376
+    ]
+  },
+  "C5_gcloud_threat": {
+    "url": "local copy of Google Cloud Threat Horizons Report H1 2026 PDF",
+    "pdf_page_index": 6,
+    "print_page": 7,
+    "key": "Distribution of Initial Access Vectors",
+    "key_bbox_px_scale3": [
+      287.6054992675781,
+      275.34576416015625,
+      837.6954345703125,
+      302.3726806640625
+    ],
+    "page_px": [
+      1836,
+      2376
+    ]
+  }
+}

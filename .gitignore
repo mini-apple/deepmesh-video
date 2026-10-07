@@ -1,0 +1,18 @@
+# 팀 문서 (개인 저장소에는 올리지 않음)
+assets/*.docx
+assets/*.pptx
+ppt/*.pptx
+
+# Office 잠금 파일
+~$*
+
+# 로컬 도구 설정 · 캐시
+.claude/settings.local.json
+__pycache__/
+*.pyc
+node_modules/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
